@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/suit/static/css/main.08663650.css",
+    "main.js": "/suit/static/js/main.9fc4ffea.js",
+    "static/media/keheninggan.jpg": "/suit/static/media/keheninggan.920d3e84602940f82e60.jpg",
+    "index.html": "/suit/index.html",
+    "main.08663650.css.map": "/suit/static/css/main.08663650.css.map",
+    "main.9fc4ffea.js.map": "/suit/static/js/main.9fc4ffea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08663650.css",
+    "static/js/main.9fc4ffea.js"
+  ]
+}
